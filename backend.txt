@@ -1,0 +1,40 @@
+Bắt đầu tạo backend dự án
+    - npm init
+    - npm i express
+    - npm install nodemon -g
+    - npm add express nodemon
+
+Cách chạy server
+    - npm start
+
+Xóa đi 1 thư viện không dùng nữa
+    - npm uninstall <tên_thư_viện>
+
+Thư viện nodejs
+
+	- npm i dotenv: là một thư viện (package) giúp bạn quản lý các biến môi trường (environment variables)
+------------------------------------------------------------------------------------------------------------------------
+	- npm i mongoose: là một thư viện giúp bạn làm việc với MongoDB
+------------------------------------------------------------------------------------------------------------------------
+	- npm i bcrypt: là một thư viện sử dụng để mã hóa và giải mã mật khẩu hoặc dữ liệu
+------------------------------------------------------------------------------------------------------------------------
+    - npm i uuid: tạo ra các chuỗi duy nhất không trùng lặp, thường được sử dụng để định danh các đối tượng hoặc tạo các mã xác thực
+------------------------------------------------------------------------------------------------------------------------
+    - npm i nodemailer: cho phép bạn gửi email từ máy chủ của bạn
+------------------------------------------------------------------------------------------------------------------------
+    - npm i jsonwebtoken: được sử dụng để tạo và xác minh JSON Web Tokens (JWT)
+------------------------------------------------------------------------------------------------------------------------
+    - npm i axios: là một thư viện JavaScript được sử dụng để thực hiện các yêu cầu HTTP, chủ yếu được sử dụng trong môi trường web và Node.js. Nó giúp bạn dễ dàng gửi các yêu cầu HTTP và xử lý các phản hồi từ máy chủ
+------------------------------------------------------------------------------------------------------------------------
+    - npm i multer: là một middleware cho Node.js được sử dụng để xử lý dữ liệu gửi lên từ các biểu mẫu HTML (form data), đặc biệt là khi bạn muốn xử lý tệp tin được tải lên từ máy khách
+------------------------------------------------------------------------------------------------------------------------
+    - npm i cloudinary: là một dịch vụ lưu trữ và quản lý tệp đa phương tiện được sử dụng để lưu trữ, quản lý, và tối ưu hóa hình ảnh, video và tệp tin đa phương tiện khác
+------------------------------------------------------------------------------------------------------------------------
+    - npm i cheerio: là một thư viện JavaScript trong Node.js được thiết kế để cung cấp một cách thuận tiện để phân tích và xử lý dữ liệu HTML
+------------------------------------------------------------------------------------------------------------------------
+    - npm i puppeteer: là một thư viện Node.js được phát triển bởi Google Chrome Team, được sử dụng để tự động hóa các trình duyệt web thông qua môi trường trình duyệt headless (không có giao diện người dùng). Puppeteer có thể điều khiển và tương tác với trình duyệt Chrome hoặc Chromium, cũng như cung cấp các khả năng tương tác và kiểm soát mạnh mẽ trên các trang web
+------------------------------------------------------------------------------------------------------------------------
+    - npm i xml2js: là một thư viện Node.js được sử dụng để chuyển đổi dữ liệu XML thành đối tượng JavaScript hoặc ngược lại
+------------------------------------------------------------------------------------------------------------------------
+    - npm i body-parser:  là một middleware cho Express.js (một framework web cho Node.js) được sử dụng để xử lý dữ liệu trong các yêu cầu HTTP
+
